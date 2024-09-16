@@ -32,6 +32,7 @@ Para ejecutar esta aplicación, sigue los siguientes pasos:
 
 
 ## Estructura del proyecto
+```
 Tipos-de-Enlace/
 ├── __pycache__/
 ├── .gitignore
@@ -40,3 +41,4 @@ Tipos-de-Enlace/
 ├── README.md
 ├── requirements.txt
 ├── tipo_enlace.py
+```
