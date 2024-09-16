@@ -1,4 +1,4 @@
-*# Tipos-de-Enlace
+# Tipos-de-Enlace
 
 ## Descripción
 
