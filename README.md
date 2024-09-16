@@ -33,7 +33,6 @@ Para ejecutar esta aplicación, sigue los siguientes pasos:
 
 ## Estructura del proyecto
 Tipos-de-Enlace/
-├── __pycache__/
 ├── .gitignore
 ├── datos.py
 ├── info_general.py
