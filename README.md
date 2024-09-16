@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Hola!! en este proyecto creamos una funcionalidad para calcular el tipo de enlace químico entre dos elementos que escriba el usuario. Originalmente, utilizanis Tkinter para la interfaz de usuario, pero hemos migrado la aplicación a Streamlit para una mejor experiencia, en la rama main se encuentra este código, por si quisieras consultarlo.
+Hola!! en este proyecto creamos una funcionalidad para calcular el tipo de enlace químico entre dos elementos que escriba el usuario. Originalmente, utilizamos Tkinter para la interfaz de usuario, pero hemos migrado la aplicación a Streamlit para una mejor experiencia, en la rama main se encuentra este código, por si quisieras consultarlo.
 
 ## Instalación
 
