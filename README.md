@@ -29,3 +29,14 @@ Para ejecutar esta aplicación, sigue los siguientes pasos:
 6. **Ejecuta la app**
     ```sh
    streamlit run tipo_enlace.py
+
+
+## Estructura del proyecto
+Tipos-de-Enlace/
+├── __pycache__/
+├── .gitignore
+├── datos.py
+├── info_general.py
+├── README.md
+├── requirements.txt
+├── tipo_enlace.py
