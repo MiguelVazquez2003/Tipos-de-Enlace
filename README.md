@@ -13,15 +13,19 @@ Para ejecutar esta aplicación, sigue los siguientes pasos:
    git clone https://github.com/tu_usuario/Tipos-de-Enlace.git
    cd Tipos-de-Enlace
 
-2. **Crea y activa un entorno virutal**
+2. **Crea el entorno virtual**
+    ```sh
     python -m venv venv
-    En Windows: 
+3. **Activar en En Windows**
+    ```sh
     .\venv\Scripts\activate
-
-    En macOs Y Linux:
+4. **Activar en macOS**
+    ```sh
     source venv/bin/activate
-3. **Instala las dependencias**
+5. **Instala las dependencias**
+    ```sh
    pip install -r requirements.txt
 
-4. **Ejecuta la app**
+6. **Ejecuta la app**
+    ```sh
    streamlit run tipo_enlace.py
