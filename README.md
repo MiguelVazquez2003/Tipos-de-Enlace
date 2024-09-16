@@ -32,6 +32,7 @@ Para ejecutar esta aplicación, sigue los siguientes pasos:
 
 
 ## Estructura del proyecto
+```
 Tipos-de-Enlace/
 ├── .gitignore
 ├── datos.py
@@ -39,3 +40,4 @@ Tipos-de-Enlace/
 ├── README.md
 ├── requirements.txt
 ├── tipo_enlace.py
+```
