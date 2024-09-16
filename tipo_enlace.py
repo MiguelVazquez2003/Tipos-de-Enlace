@@ -31,7 +31,7 @@ st.image("tabla_periodica.png", caption="Tabla Periódica de los Elementos", use
 
 # Crear la interfaz de usuario con Streamlit
 st.header("🔍 ¡Identifica el enlace químico! 🧪")
-st.write("Ingrese dos elementos químicos para determinar el tipo de enlace.")
+st.write("Ingresa dos elementos químicos para determinar el tipo de enlace.")
 
 # Lista de elementos para el selector
 elementos = list(electronegatividades.keys())
@@ -49,5 +49,5 @@ if st.button("Calcular Enlace"):
         st.success(f"El enlace entre {elemento1} y {elemento2} es {tipo_enlace}")
 
 # Mostrar la imagen de la tabla periódica
-st.write("### Tabla Periódica")
-st.image("electronegatividad.jpg", caption="Tabla Periódica de los Elementos", use_column_width=True)
+st.write("### Electronegatividades")
+st.image("electronegatividad.jpg", caption="Tabla con Electronegatividades", use_column_width=True)
